@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
 
 #######################################################################################
-#																					  #
-#		                          MetaBarkCoding									  #
-#																					  #
+#										      #
+#		                          MetaBarkCoding		       	      #
+#									       	      #
 #######################################################################################
 
 # By Remi Petrolli (modified from Marcin Jakalski's original script)
-# Article: A fine-scale spatial analysis of fungal communities on tropical tree bark shows the epiphytic rhizosphere in orchids (2021)
+# Article: A fine-scale spatial analysis of fungal communities on tropical tree bark unveils the epiphytic rhizosphere in orchids (2021)
 # Authors: REMI PETROLLI, CONRADO AUGUSTO VIEIRA, MARCIN JAKALSKI, MELISSA F. BOCAYUVA, CLEMENT VALLE, EVERALDO DA SILVA CRUZ, MARC-ANDRÉ SELOSSE, FLORENT MARTOS, MARIA CATARINA M. KASUYA
 
 
